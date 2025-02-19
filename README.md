@@ -5,9 +5,7 @@ Welcome to my personal **portfolio website**, built using **ReactJS, JavaScript,
 ## 🌟 Live Demo
 🔗 **[Visit My Portfolio](https://waabiud.github.io/my-app)**  
 
-## 📂 Project Structure
-
-Here's a **README.md** file for your portfolio project:  
+## 📂 Project Structure 
 
 ```markdown
 # 🚀 Abiud Wamalwa | Portfolio
@@ -73,8 +71,7 @@ src
 
 🔹 **Want to collaborate or hire me? Feel free to reach out!** 🚀  
 ```
-
-This **README** makes your portfolio professional and informative. Let me know if you want any changes! 🚀
+🚀
 
 
 
