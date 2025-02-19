@@ -88,7 +88,7 @@ src
 - Social media links (**GitHub, LinkedIn, Instagram**)  
 
 ## 📜 My Background  
-- 🎓 **School:** Kaimosi University, **BSc in Computer Science**  
+- 🎓 **School:** Kaimosi University, **BSc in Mathematics and Computing**  
 - 🏠 **Home County:** (Bungoma County)  
 - 💼 **Experience:** IT Support Technician at KIVA (2023)  
 - 🖥️ **Specialization:** Full-stack Development & Data Science  
@@ -104,7 +104,7 @@ src
 - **Email:** abiudwamalwa1979@gmail.com  
 - **GitHub:** [waabiud](https://github.com/waabiud)  
 - **LinkedIn:** [Abiud Wamalwa](https://www.linkedin.com/in/abiudwamalwa)  
-- **Instagram:** [abiu__d](https://www.instagram.com/abiu__d)  
+- **Instagram:** [_abiu_d](https://www.instagram.com/_abiu_d)  
 - **WhatsApp/Telegram:** +254792129479  
 
 ---
