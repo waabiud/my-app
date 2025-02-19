@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "https://waabiud.github.io/my-app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waabiud/my-app.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
