@@ -1,0 +1,10 @@
+/* src/components/Navbar.css */
+.navbar {
+  background-color: #007bff;
+  padding: 15px;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+

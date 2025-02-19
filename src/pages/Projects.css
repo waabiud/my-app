@@ -1,0 +1,12 @@
+/* src/pages/Projects.css */
+.projects {
+  padding: 20px;
+  text-align: center;
+}
+
+.project-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
