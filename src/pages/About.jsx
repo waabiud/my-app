@@ -11,8 +11,8 @@ const About = () => {
         I specialize in building web applications using React, Node.js, and MongoDB.
       </p>
       <p>
-        I'm currently a <strong>3rd-year Computer Science student</strong> at Kaimosi University.
-        I have experience working as an <strong>IT Support Technician at KIVA (2023)</strong>.
+        I'm currently a <strong>2nd year Math/Cs student</strong> at Kaimosi Friends University.
+        I have experience working as an <strong>IT Support Technician at KIVA (2022 - 2023)</strong>.
       </p>
       <p>
         My projects include an <a href="https://waabiud.github.io/ecommerce" target="_blank" rel="noopener noreferrer">E-commerce Website</a>,  
