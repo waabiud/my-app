@@ -1,4 +1,4 @@
-# 🚀 Abiud Wamalwa | Portfolio
+8# 🚀 Abiud Wamalwa | Portfolio
 
 Welcome to my personal **portfolio website**, built using **ReactJS, JavaScript, HTML, CSS, and Bootstrap**. This project showcases my **skills, projects, and experience** in software development and IT.
 
@@ -49,7 +49,7 @@ src
 ## 📜 My Background  
 - 🎓 **School:** Kaimosi University, **BSc in Mathematics and Computing**  
 - 🏠 **Home County:** (Bungoma County)  
-- 💼 **Experience:** IT Support Technician at KIVA (2023)  
+- 💼 **Experience:** IT Support Technician at KIVA (2022-2023),Frontend Developer at Codealpha (2024)  
 - 🖥️ **Specialization:** Full-stack Development & Data Science  
 
 ## 📁 My Notable Projects
